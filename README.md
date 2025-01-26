@@ -1,0 +1,2 @@
+# DjangoTranslator
+приложение
